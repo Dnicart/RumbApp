@@ -1,0 +1,6 @@
+.edit-button,
+ .delete-button,
+  .button-group__submit,
+  .button-group__close {
+    margin: 0 10px;
+  }

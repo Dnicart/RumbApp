@@ -1,0 +1,17 @@
+input, select{
+  margin-bottom: 16px;
+}
+.link-list-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 20px;
+  }
+.button-group {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    margin-right: 8px;
+  }  
